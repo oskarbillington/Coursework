@@ -1,1 +1,1 @@
-Introduction to FEM; deriving and building a MATLAB 1D FEM solver from scratch 
+Introduction to FEM; deriving and building a MATLAB 1D FEM solver from scratch. The solution with quadratic elements is "harder" but solves the problem exactly so error analysis is more interesting with linear elements

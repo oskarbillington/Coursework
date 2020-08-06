@@ -1,0 +1,1 @@
+Part of a computer project which studies/compares algorithms and objective functions for linear regression. Here I use the California Housing dataset. This code is designed to use gradient descent (smoothed/differentiable objective function) and to search for the optimal value of a free lambda-parameter. The main script is "by_hand_m3_lambda_trials"

@@ -1,0 +1,1 @@
+Linear programming and the Simplex method came up in lectures on optimization. MATLAB has a built-in linear programming-solver but here I try to build one from scratch. The main script is "mySimplexSovler"

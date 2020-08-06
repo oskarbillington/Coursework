@@ -1,0 +1,1 @@
+Open task: write a script in MATLAB that uses linear transformations to manipulate visual geometry. Context: my very first program; home assignment after 10 h of beginner's introduction to programming and MATLAB; minor contribution towards practical coursework-grade (P5)

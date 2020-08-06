@@ -26,7 +26,7 @@ frac1 = 0.75;
 
 
 % Use regression to obtain weights for each lambda trial value
-lambda_trials = {0, 1e-6, 1e-5, 1e-4, 1e-3, 1e-2, 1e-1, 1e0};
+lambda_trials = {0, 1e-6, 1e-5, 1e-4, 1e-3, 1e-2, 1e-1};
 nt = length(lambda_trials);
 n = 5; % Average over 5 iterations per lambda value
 history = zeros(n*nt,3);
